@@ -94,6 +94,12 @@ const certificateDB = {
     startDate: "20 August 2026",
     endDate: "20 September 2026"
   },
+  "CA/DF1/246618": {
+    name: "Ayush Choudhary",
+    domain: "Frontend Development",
+    startDate: "20 August 2026",
+    endDate: "20 September 2026"
+  },
 
   
 
