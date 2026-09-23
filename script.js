@@ -70,6 +70,13 @@ const certificateDB = {
     startDate: "05 June 2026",
     endDate: "05 July 2026"
   },
+  "CA/DF1/255061": {
+    name: "Abhijeet Kumar",
+    domain: "Frontend Development",
+    startDate: "21 August 2026",
+    endDate: "20 September 2026"
+  },
+  
 
   
   
