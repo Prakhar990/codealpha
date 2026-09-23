@@ -45,7 +45,34 @@ const certificateDB = {
     domain: "Frontend Development",
     startDate: "10 August 2026",
     endDate: "10 September 2026"
-  }
+  },
+  "CA/DF1/170707": {
+    name: "Aditi Dubey",
+    domain: "Python Programming",
+    startDate: "10 August 2026",
+    endDate: "10 September 2026"
+  },
+  "CA/DF1/244718": {
+    name: "Suraj Kumar",
+    domain: "Frontend Development",
+    startDate: "10 August 2026",
+    endDate: "20 September 2026"
+  },
+  "CA/DF1/239942": {
+    name: "Devesh Tiwari",
+    domain: "Frontend Development",
+    startDate: "10 August 2026",
+    endDate: "10 September 2026"
+  },
+  "CA/DF1/239782": {
+    name: "Kamlesh Kumar",
+    domain: "Frontend Development",
+    startDate: "05 June 2026",
+    endDate: "05 July 2026"
+  },
+
+  
+  
 };
 
 // Normalize an entered ID so "ca/df1/225278", "CA / DF1 / 225278", etc.
