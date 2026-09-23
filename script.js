@@ -76,6 +76,25 @@ const certificateDB = {
     startDate: "21 August 2026",
     endDate: "20 September 2026"
   },
+  "CA/DF1/239815": {
+    name: "Shiva Kashyap",
+    domain: "Frontend Development",
+    startDate: "10 August 2026",
+    endDate: "10 September 2026"
+  },
+  "CA/DF1/254618": {
+    name: "Arman Alam",
+    domain: "Frontend Development",
+    startDate: "20 August 2026",
+    endDate: "20 September 2026"
+  },
+  "CA/DF1/244628": {
+    name: "Shahwez Alam",
+    domain: "Frontend Development",
+    startDate: "20 August 2026",
+    endDate: "20 September 2026"
+  },
+
   
 
   
